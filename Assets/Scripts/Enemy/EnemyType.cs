@@ -3,8 +3,8 @@
     public enum EnemyType
     {
         OnePunchMan,
-        DashMan,
         Hitman,
-        Robot
+        Robot,
+        PatrolMan,
     }
 }

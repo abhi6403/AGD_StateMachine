@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   LevelID: 2
   EnemyPrefab: {fileID: 8285538388518601480, guid: 5ca58ac41c04a114284507d3b2809daa, type: 3}
-  Type: 1
+  Type: 4
   SpawnPosition: {x: -5, y: 1.5, z: 7}
   SpawnRotation: {x: 0, y: -90, z: 0}
   MovementSpeed: 5

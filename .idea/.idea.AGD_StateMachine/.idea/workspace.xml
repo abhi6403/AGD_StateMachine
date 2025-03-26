@@ -4,7 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57dd2350-cf33-47d3-aec1-ed5178049cfe" name="Changes" comment="" />
+    <list default="true" id="57dd2350-cf33-47d3-aec1-ed5178049cfe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AGD_StateMachine/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AGD_StateMachine/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_1.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_2.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_2.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_3.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_3.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_4.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_4.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_5.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_5.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_6.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_6.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyType.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/IStateMachine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/IStateMachine.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/OnePunchManStateMachine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/OnePunchManStateMachine.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/States.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/States/ChasingState.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/States/ChasingState.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/States/IdleState.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/States/IdleState.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/States/PatrollingState.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/States/PatrollingState.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/States/RotatingState.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/States/RotatingState.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/States/ShootingState.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/States/ShootingState.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/SceneTemplateSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/SceneTemplateSettings.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +44,8 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyStates.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/IStateMachine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/OnePunchManStateMachine.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/States/ChasingState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/PatrolMan/PatrolManStateMachine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/States/RotatingState.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -31,7 +59,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;State-Machine-Setup&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Patrol-Man-Setup&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -96,7 +124,9 @@
       <workItem from="1742881294309" duration="2000" />
       <workItem from="1742881327550" duration="2000" />
       <workItem from="1742881649513" duration="4840000" />
-      <workItem from="1742951886089" duration="5136000" />
+      <workItem from="1742951886089" duration="6108000" />
+      <workItem from="1742959209653" duration="2710000" />
+      <workItem from="1742969601576" duration="1478000" />
     </task>
     <servers />
   </component>
