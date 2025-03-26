@@ -13,7 +13,7 @@ namespace StatePattern.Enemy
         {
             enemyView.SetController(this);
             CreateStateMachine();
-            stateMachine.ChangeState(OnePunchManStates.IDLE);
+            stateMachine.ChangeState(EnemyStates.IDLE);
         }
 
         private void CreateStateMachine() => stateMachine = new OnePunchManStateMachine(this);
@@ -29,9 +29,9 @@ namespace StatePattern.Enemy
         public override void PlayerEnteredRange(PlayerController targetToSet)
         {
             base.PlayerEnteredRange(targetToSet);
-            stateMachine.ChangeState(OnePunchManStates.SHOOTING);
+            stateMachine.ChangeState(EnemyStates.SHOOTING);
         }
 
-        public override void PlayerExitedRange() => stateMachine.ChangeState(OnePunchManStates.IDLE);
+        public override void PlayerExitedRange() => stateMachine.ChangeState(EnemyStates.IDLE);
     }
 }
