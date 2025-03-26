@@ -12,25 +12,9 @@
       <change beforePath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_4.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_4.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_5.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_5.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_6.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_6.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyType.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/IStateMachine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/IStateMachine.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/OnePunchManStateMachine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/OnePunchManStateMachine.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/States.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/States/ChasingState.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/States/ChasingState.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/States/IdleState.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/States/IdleState.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/States/PatrollingState.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/States/PatrollingState.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/States/RotatingState.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/States/RotatingState.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/States/ShootingState.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/States/ShootingState.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/SceneTemplateSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/SceneTemplateSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/IState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/IState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/States/PatrollingState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/States/PatrollingState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +110,7 @@
       <workItem from="1742881649513" duration="4840000" />
       <workItem from="1742951886089" duration="6108000" />
       <workItem from="1742959209653" duration="2710000" />
-      <workItem from="1742969601576" duration="1478000" />
+      <workItem from="1742969601576" duration="2585000" />
     </task>
     <servers />
   </component>
