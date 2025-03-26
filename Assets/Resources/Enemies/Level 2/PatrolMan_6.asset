@@ -20,7 +20,7 @@ MonoBehaviour:
   MovementSpeed: 1.5
   MaximumHealth: 10
   RangeRadius: 6
-  IdleTime: 3
+  IdleTime: 2
   RotationSpeed: 100
   RotationThreshold: 0.5
   BulletData: {fileID: 11400000, guid: cfa5b8d473156f34f8a4255079c7aaa0, type: 2}
