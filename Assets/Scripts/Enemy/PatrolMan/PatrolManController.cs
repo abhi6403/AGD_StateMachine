@@ -20,7 +20,6 @@ namespace StatePattern.Enemy
             {
                 return;
             }
-
             stateMachine.Update();
         }
         

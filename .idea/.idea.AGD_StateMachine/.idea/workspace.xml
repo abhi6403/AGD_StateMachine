@@ -6,14 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="57dd2350-cf33-47d3-aec1-ed5178049cfe" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AGD_StateMachine/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AGD_StateMachine/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_1.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_2.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_2.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_3.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_3.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_4.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_4.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_5.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_5.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_6.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Enemies/Level 2/PatrolMan_6.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/IState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/OnePunchMan/IState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/States/PatrollingState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/States/PatrollingState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/PatrolMan/PatrolManController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/PatrolMan/PatrolManController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
