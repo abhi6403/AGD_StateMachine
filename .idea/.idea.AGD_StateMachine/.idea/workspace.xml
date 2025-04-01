@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cb278a2f-c8e6-4b82-88cc-7503b7617b45" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AGD_StateMachine/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AGD_StateMachine/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyView.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

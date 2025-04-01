@@ -12,10 +12,10 @@ namespace StatePattern.Enemy
         public EnemyController Controller { get; private set; }
         [SerializeField] public NavMeshAgent Agent;
         private SphereCollider rangeTriggerCollider;
+        [SerializeField] private SpriteRenderer enemyGraphic;
         [SerializeField] private SpriteRenderer detectableRange;
         [SerializeField] private ParticleSystem muzzleFlash;
         [SerializeField] private GameObject bloodStain;
-        [SerializeField] private SpriteRenderer enemyGraphic;
         [SerializeField] private List<EnemyColor> enemyColors;
 
         private void Start()
